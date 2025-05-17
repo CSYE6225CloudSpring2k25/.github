@@ -8,7 +8,7 @@
 
 ### 🌠 Stellar Architecture
 - **Visualize the Cosmos**: [Check out the Cloud Architecture Diagram](#)
-- ![Detailed Architecture](https://github.com/CSYE6225CloudSpring2k25/.github_csye6225/blob/main/profile/cloud_arch.png)
+- ![Detailed Architecture](https://github.com/CSYE6225CloudSpring2k25/.github/blob/main/profile/cloud_arch.png)
 
 
 ### 🌩️ Nebula of Innovation
